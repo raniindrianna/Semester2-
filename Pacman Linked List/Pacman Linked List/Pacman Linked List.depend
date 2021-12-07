@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1626719589 source:e:\difah\k u l i a h\smt2\ppl 2\pacman linked list\linkedlist.cpp
+	<stdio.h>
+	<malloc.h>
+	"Linkedlist.hpp"
+
+1626719609 e:\difah\k u l i a h\smt2\ppl 2\pacman linked list\linkedlist.hpp
+	"boolean.hpp"
+	<stdio.h>
+
+1626710663 e:\difah\k u l i a h\smt2\ppl 2\pacman linked list\boolean.hpp
+
+1626767531 source:e:\difah\k u l i a h\smt2\ppl 2\pacman linked list\main.cpp
+	"game.hpp"
+
+1626767531 e:\difah\k u l i a h\smt2\ppl 2\pacman linked list\game.hpp
+	<graphics.h>
+	"menu.hpp"
+
+1626719802 e:\difah\k u l i a h\smt2\ppl 2\pacman linked list\menu.hpp
+	<graphics.h>
+	"Linkedlist.hpp"
+	<conio.h>
+	<string>
+
+1626767923 source:e:\difah\k u l i a h\smt2\ppl 2\pacman linked list\menu.cpp
+	"menu.hpp"
+
+1626768397 source:e:\difah\k u l i a h\smt2\ppl 2\pacman linked list\game.cpp
+	"game.hpp"
+	<windows.h>
+
+1626719589 source:c:\users\asus\downloads\pacman linked list\pacman linked list\linkedlist.cpp
+	<stdio.h>
+	<malloc.h>
+	"Linkedlist.hpp"
+
+1626719609 c:\users\asus\downloads\pacman linked list\pacman linked list\linkedlist.hpp
+	"boolean.hpp"
+	<stdio.h>
+
+1626710663 c:\users\asus\downloads\pacman linked list\pacman linked list\boolean.hpp
+
+1626767531 source:c:\users\asus\downloads\pacman linked list\pacman linked list\main.cpp
+	"game.hpp"
+
+1626768954 c:\users\asus\downloads\pacman linked list\pacman linked list\game.hpp
+	<graphics.h>
+	"menu.hpp"
+
+1626719802 c:\users\asus\downloads\pacman linked list\pacman linked list\menu.hpp
+	<graphics.h>
+	"Linkedlist.hpp"
+	<conio.h>
+	<string>
+
+1627613464 source:c:\users\asus\downloads\pacman linked list\pacman linked list\menu.cpp
+	"menu.hpp"
+
+1626768954 source:c:\users\asus\downloads\pacman linked list\pacman linked list\game.cpp
+	"game.hpp"
+	<windows.h>
+
+1626768954 source:c:\users\asus\documents\semester 2\2. ppl 2\pacman linked list\pacman linked list\game.cpp
+	"game.hpp"
+	<windows.h>
+
+1626768954 c:\users\asus\documents\semester 2\2. ppl 2\pacman linked list\pacman linked list\game.hpp
+	<graphics.h>
+	"menu.hpp"
+
+1626719802 c:\users\asus\documents\semester 2\2. ppl 2\pacman linked list\pacman linked list\menu.hpp
+	<graphics.h>
+	"Linkedlist.hpp"
+	<conio.h>
+	<string>
+
+1626719609 c:\users\asus\documents\semester 2\2. ppl 2\pacman linked list\pacman linked list\linkedlist.hpp
+	"boolean.hpp"
+	<stdio.h>
+
+1626710663 c:\users\asus\documents\semester 2\2. ppl 2\pacman linked list\pacman linked list\boolean.hpp
+
+1626719589 source:c:\users\asus\documents\semester 2\2. ppl 2\pacman linked list\pacman linked list\linkedlist.cpp
+	<stdio.h>
+	<malloc.h>
+	"Linkedlist.hpp"
+
+1626767531 source:c:\users\asus\documents\semester 2\2. ppl 2\pacman linked list\pacman linked list\main.cpp
+	"game.hpp"
+
+1627618991 source:c:\users\asus\documents\semester 2\2. ppl 2\pacman linked list\pacman linked list\menu.cpp
+	"menu.hpp"
+
