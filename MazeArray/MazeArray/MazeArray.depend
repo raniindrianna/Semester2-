@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619884523 source:c:\users\pro pc\documents\belajar c\latihanc\maze\mazewitharray\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
